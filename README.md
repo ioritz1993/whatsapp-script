@@ -1,17 +1,19 @@
-# SendScriptWhatsApp
+# Instructions
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+This script is designed to repeatedly send a specific text, in this case, "👍," through WhatsApp Web at regular intervals (100 milliseconds in the example).
 
-## Utilização
+To give it a try, all you need to do is log in to WhatsApp Web from your browser, open a conversation, and then hop into your browser's developer console to paste the code I'm giving you.
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Oh, and here's a key point: you can tweak both the time between messages and the actual text of the message to suit your preferences.
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+*Note: the cursor must be positioned in the text box of the conversation.*
 
-No WhatsApp Web abra o console do Browser
+# Instrucciones
 
-Cole o código no console e aperte Enter
+Este script se encarga de enviar una y otra vez un texto específico, en el ejemplo "👍", a través de WhatsApp Web con intervalos regulares (100 milisegundos en el ejemplo).
 
-Pronto
+Para probarlo, solo necesitas iniciar sesión en WhatsApp Web desde tu navegador, abrir una conversación y luego entrar en la consola de desarrollo del navegador para pegar el código que te paso.
+
+Ah, y un dato importante, puedes ajustar tanto el intervalo entre los mensajes como el contenido del mensaje según tus preferencias.
+
+*Nota: el cursor tiene que estar posicionado en el cuadro de texto de la conversación.*
